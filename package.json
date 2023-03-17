@@ -1,0 +1,16 @@
+{
+  "name": "01-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ch1": "dead-server --host=localhost --port=4301"
+  },
+  "keywords": [],
+  "author": "Edvinas <edvingvozdovic@gmail.com> (https://github.com/EdvinGV)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
